@@ -1,0 +1,1 @@
+./findWinner.py --blockNumber 5780683 --delegator-file delegators.json
